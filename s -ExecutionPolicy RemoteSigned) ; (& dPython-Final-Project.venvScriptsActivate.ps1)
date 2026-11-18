@@ -1,0 +1,241 @@
+[33mcommit e6bcde559b5a27754bf286ef77348f3b13b30a4b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Sat Oct 31 18:29:50 2026 +0700
+
+    update lần 2
+
+[33mcommit 10997f5c662c6a9d5c901bcfc352abee769520cf[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Sat Oct 31 09:47:39 2026 +0700
+
+    [Adđ] - Hoàn thành báo cáo  !
+
+[33mcommit a63f485fe5e37a777c6878f399e4c9d3defe00cb[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Sat Oct 31 08:56:40 2026 +0700
+
+    [Update] : Lần thứ 1 - 31/10/2026
+    
+    Info : Hoàn thành cơ bản mô hình RestNet !
+
+[33mcommit e51b1337dccffef1fc722a7bfa26e43bb370ab80[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Sat Oct 31 08:55:22 2026 +0700
+
+    [Update] : Lần thứ 3 - 31/10/2026
+    
+    Info : Không đưa 2 file model ResNet lên Git
+
+[33mcommit 4b897688d791ffdc906c2811f0d5cbe5af9b0e75[m
+Merge: 66df4bd 486efde
+Author: haonguyennhat <162509494+haonguyen270225@users.noreply.github.com>
+Date:   Fri Oct 30 18:59:15 2026 +0700
+
+    Merge pull request #3 from haonguyen270225/backup-main
+    
+    Backup main
+
+[33mcommit 486efde5f792629c1f1efd4a5695fb0fac944256[m
+Author: HoaiNam <tranhoainamhtkg@gmail.com>
+Date:   Fri Oct 30 18:53:32 2026 +0700
+
+    [update] : Lần thứ 2 - 30/10/2026
+    
+    Info : Hoàn thành mô hình Random Forest !
+
+[33mcommit cd737093aea5141eb7301bfcc49721f204ec6c95[m
+Author: HoaiNam <tranhoainamhtkg@gmail.com>
+Date:   Fri Oct 30 18:33:40 2026 +0700
+
+    [Update] : Lan thứ 1 - 30/10/2026
+    
+    Info : Hoàn thành mô hình Random_forest !
+
+[33mcommit a6ca19aa2b4be24b0415d21d7b747709ad8d6eed[m
+Author: HoaiNam <tranhoainamhtkg@gmail.com>
+Date:   Fri Oct 30 18:11:36 2026 +0700
+
+    [Update] : Lần thứ 3 : 30/10/2026
+    
+    info : thêm bỏ qua các file ket_qua_random_forset/*.pkl !
+
+[33mcommit 66df4bda1c62dc584837421ee0b2e39b7637ace6[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 17:13:38 2026 +0700
+
+    [Add] : Lần thứ 1 - 30/10/2026
+    
+    Thêm kết quả thống kê 3 mô hình Custom_CNN , MobileLenetV2 và YoLo !
+
+[33mcommit ab2c3180b9bcc9b7f5db2a50c37c090489ec3058[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 16:05:14 2026 +0700
+
+    [Update] : Lần thứ 3 : 30/10/2026
+    
+    Info : Cặp nhật file .gitignore chỉnh sửa folder anh_kiem_tra !
+
+[33mcommit 8d748559a3256a8f6237e9242fd5f303e791fdef[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 15:58:30 2026 +0700
+
+    [Update] : Lần thứ 1 - 30/10/2026
+    
+    info : Hoàn thành cơ bản mô hình MobilelenetV2 !
+
+[33mcommit 4df80fdc91739b6e7893c4fe41de515806e76097[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 15:14:10 2026 +0700
+
+    [Update] : Lần thứ 1 - 30/10/2026
+    
+    Hoàn thành cơ bản huấn luyện mô hình YoLo !
+
+[33mcommit 5327e7f20d7374c6809518ba43a618b46dea25d1[m
+Merge: e87af98 7c4d6ed
+Author: haonguyennhat <162509494+haonguyen270225@users.noreply.github.com>
+Date:   Fri Oct 30 15:11:04 2026 +0700
+
+    Merge pull request #2 from haonguyen270225/backup-main
+    
+    [Upadte] : Lần thứ 1 - 30/10/2026
+
+[33mcommit 7c4d6edfe36f59ee3883ab0f4e4afaead49428bf[m
+Author: HoaiNam <tranhoainamhtkg@gmail.com>
+Date:   Fri Oct 30 14:49:28 2026 +0700
+
+    [Upadte] : Lần thứ 1 - 30/10/2026
+    
+    info : Hoàn thành huấn luyện mô hình Custom CNN !
+
+[33mcommit e87af98e57337a15d85794f818431750fa708c13[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 13:12:56 2026 +0700
+
+    [Update] : Lần thứ 2 - 30/10/2026
+    
+    Info : Traing model YoLo với asset_finally !
+
+[33mcommit 767928703d41d84ff610ab6304a5ce47f26c53d8[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 12:40:02 2026 +0700
+
+    [Update] : Lần thứ 5 - 30/10/2026
+    
+    info : Chuẩn hóa dữ liệu traing các model : Random Forest , ResNet , MobileNetV2 , Custom CNN  , YoLo
+
+[33mcommit 795bdf44f2fe2911c5142cc0d7fd2af10616c1e5[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 12:33:48 2026 +0700
+
+    [Update] : Lần thứ 4 -  30/10/2026
+    
+    info : Chuẩn hóa dữ liệu traing các model : Random Forest , ResNet , MobileNetV2 , Custom CNN  , YoLo
+
+[33mcommit 72eaa3d168c20e69118b35d2548716d3d102fd33[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 12:12:11 2026 +0700
+
+    [Update] : Lần thứ 3  - 30/10/2026
+    
+    info : Chuẩn hóa dữ liệu traing các model : Random Forest , ResNet , MobileNetV2 , Custom CNN  , YoLo
+
+[33mcommit f6f4ec9d58edf0029c43866a804ee964a87ead44[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 12:00:11 2026 +0700
+
+    [Update] - Lần thứ 2 : 30/10/2026
+    
+    info : Chuẩn hóa dữ liệu traing các model : Random Forest , ResNet , MobileNetV2 , Custom CNN  , YoLo
+
+[33mcommit 2c6efd401564bc7fb36667cfd117b006cd413adf[m
+Author: TranPhuc <nguyentranphuc12345@gmai.com>
+Date:   Fri Oct 30 11:42:04 2026 +0700
+
+    [Update] : Lần thứ 1 - 10/30/2026
+    
+    info : Cập nhật dữ liệu dùng traing mô hình !
+
+[33mcommit dcf77a2826ceebe34b0a65021613c862da938d39[m
+Author: Nguyen Nhat Hao <haonguyennhat270225@gmail.com>
+Date:   Fri Oct 30 10:23:51 2026 +0700
+
+    [Add] : Lần thứ 1 : 30/10/2026
+    
+    Hoàn thành cơ bản huấn luyện mô hình ramdom forest !
+
+[33mcommit ae573ae60feeb591c027de556d6529dc9b73aae7[m
+Author: Nguyen Nhat Hao <haonguyennhat270225@gmail.com>
+Date:   Thu Oct 29 22:53:08 2026 +0700
+
+    [Update] : Lần thứ 1 - 29/10/2026
+    
+    Info : Chinh sửa modle Yolo và asset_YoLo cập nhật phân biệt giá tiền !
+
+[33mcommit 108cfbe4e78e7a53283d9955a0ddcbe47c3dd4b4[m
+Author: Nguyen Nhat Hao <haonguyennhat270225@gmail.com>
+Date:   Thu Oct 29 00:11:00 2026 +0700
+
+    [Add] - Lần thứ 1 : 29/10/2026
+    
+    Info : Hoàn thành cơ bản mô hình YoLo !
+
+[33mcommit a8dbf6a8f9d88b67bfcdaee47294514226130657[m
+Merge: 7066827 d1d1c98
+Author: haonguyennhat <162509494+haonguyen270225@users.noreply.github.com>
+Date:   Tue Oct 27 14:57:45 2026 +0700
+
+    Merge pull request #1 from haonguyen270225/backup-main
+    
+    [merge] - backup-main in main :  27/10/2026 - Lần thứ 1  - info : Hoàn thành cơ bản  MobileNetV2 và Custom CNN !
+
+[33mcommit d1d1c98fb40353ad897578bfd2df39100e3c8bc4[m
+Author: HoaiNam <tranhoainamhtkg@gmail.com>
+Date:   Tue Oct 27 14:40:12 2026 +0700
+
+    [Add] Lần thứ 1 - 27/10/2026
+    
+    Info : Hoàn thành hai model MobileNetV2 và Custom CNN !
+
+[33mcommit 1a0a063489e2155d61cc5c194fd0aa61f2b05467[m
+Author: HoaiNam <tranhoainamhtkg@gmail.com>
+Date:   Tue Oct 27 14:36:24 2026 +0700
+
+    [Add] : Lần thứ 2 - 27/10/2026
+    
+    Info : add file .gitignore !
+
+[33mcommit a0daee49a457736f9076464fb7d115be84cb80de[m
+Author: HoaiNam <tranhoainamhtkg@gmail.com>
+Date:   Tue Oct 27 14:24:57 2026 +0700
+
+    [Add] : Lần thứ 1 - 27/10/2026
+    
+    Info : add file .gitgnore !
+
+[33mcommit 7066827f76db9195e62cb2aa1d79bd98b478efdd[m
+Author: HoaiNam <tranhoainamhtkg@gmail.com>
+Date:   Mon Oct 26 15:26:42 2026 +0700
+
+    Add folder asset_backup - Lần thứ [1] : 10/26/20026
+    info: Dữ liệu backup asset hình ảnh tiền tệ !
+
+[33mcommit 38ea3c20274ad3f3ad23dbb9d7a842c3d41419ee[m
+Author: haonguyennhat <162509494+haonguyen270225@users.noreply.github.com>
+Date:   Fri Oct 16 17:51:31 2026 +0700
+
+    Update file README.md - Lần thứ 3 : 16-10-2026
+    
+     info: Bổ sung thêm "Mục Lục" để tiện xem file readme.md !
+
+[33mcommit 839d507d1c724ae4eabbb40b9dadca9a6dfcdfc5[m
+Author: haonguyennhat <162509494+haonguyen270225@users.noreply.github.com>
+Date:   Fri Oct 16 17:36:00 2026 +0700
+
+    Update file README.md - Lần thứ 2 : 16-10-2026
+    
+    info: Bổ sung phần các câu lệnh Git cơ bản làm việc hiệu quả !
+
+[33mcommit 87980109feab8f9f6eb709dc6b5aa9ed3510b941[m
+Author: haonguyennhat <162509494+haonguyen270225@users.noreply.github.com>
+Date:   Fri Oct 16 16:32:0
