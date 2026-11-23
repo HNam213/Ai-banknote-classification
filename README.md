@@ -1,3 +1,14 @@
+#Studen name: Trần Hoài Nam
+
+
+Project Type: Academic Group Project (4 members)
+
+My Role: Dataset Collection & Model Results Analysis
+
+Original Repository: https://github.com/haonguyen270225/Python-Final-Project
+
+This repository is a personal fork of our team's academic project. My contributions focused on collecting and preparing banknote image datasets and performing statistical analysis of model prediction results.
+
 # 💵 Python Final Project
 
 <div align="center">
